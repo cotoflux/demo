@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Love chocolate" },
+    { "id": 2, "title": "Prefer dark chocolate" },
+    { "id": 3, "title": "over 70%" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Powerful Source of Antioxidants", "postId": 1 },
+    { "id": 2, "body": "May Improve Blood Flow and Lower Blood Pressure", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "cotoflux"
   }
 }
